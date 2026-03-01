@@ -237,7 +237,7 @@ Object, Array পাঠালে reference (memory address) যায়।
 
 
 
-loop
+## loop
 map	নতুন array তৈরি করে
 forEach	শুধু loop চালায় কোনো কিছু রিটার্ন করে না
 filter	condition অনুযায়ী array ফিল্টার করে
